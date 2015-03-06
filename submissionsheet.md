@@ -86,7 +86,7 @@ Final: PASTE URL HERE
 
 Checkpoint 1: https://github.com/AllisonKuhl/my-research-notebook/blob/master/Checkpoint%201.md
 
-Checkpoint 2: PASTE URL HERE
+Checkpoint 2: https://github.com/AllisonKuhl/my-research-notebook/blob/master/Checkpoint%202.md
 
 Draft: PASTE URL HERE
 
